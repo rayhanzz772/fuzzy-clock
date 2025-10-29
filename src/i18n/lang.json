@@ -1,0 +1,10 @@
+{
+  "id": {
+    "title": "Jam Fuzzy",
+    "description": "Waktu kira-kira (berbasis logika samar)"
+  },
+  "en": {
+    "title": "Fuzzy Clock",
+    "description": "Approximate time (based on fuzzy logic)"
+  }
+}
