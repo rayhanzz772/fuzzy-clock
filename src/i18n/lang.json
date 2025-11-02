@@ -1,10 +1,152 @@
 {
   "id": {
     "title": "Jam Fuzzy",
-    "description": "Waktu kira-kira (berbasis logika samar)"
+    "description": "Waktu kira-kira (berbasis logika samar)",
+    "approx": "Mungkin",
+    "past": "lewat",
+    "to": "menuju",
+    "oClock": "tepat",
+    "hours": {
+      "1": "satu",
+      "2": "dua",
+      "3": "tiga",
+      "4": "empat",
+      "5": "lima",
+      "6": "enam",
+      "7": "tujuh",
+      "8": "delapan",
+      "9": "sembilan",
+      "10": "sepuluh",
+      "11": "sebelas",
+      "12": "dua belas"
+    },
+    "minutes": [
+      "lima menit",
+      "sepuluh menit",
+      "seperempat",
+      "dua puluh menit",
+      "dua puluh lima menit",
+      "setengah"
+    ]
   },
   "en": {
     "title": "Fuzzy Clock",
-    "description": "Approximate time (based on fuzzy logic)"
+    "description": "Approximate time (based on fuzzy logic)",
+    "approx": "About",
+    "past": "past",
+    "to": "to",
+    "oClock": "o'clock",
+    "hours": {
+      "1": "one",
+      "2": "two",
+      "3": "three",
+      "4": "four",
+      "5": "five",
+      "6": "six",
+      "7": "seven",
+      "8": "eight",
+      "9": "nine",
+      "10": "ten",
+      "11": "eleven",
+      "12": "twelve"
+    },
+    "minutes": [
+      "five",
+      "ten",
+      "quarter",
+      "twenty",
+      "twenty five",
+      "half"
+    ]
+  },
+  "jp": {
+    "title": "ファジー時計",
+    "description": "おおよその時間",
+    "approx": "約",
+    "past": "過ぎ",
+    "to": "前",
+    "oClock": "時",
+    "hours": {
+      "1": "一",
+      "2": "二",
+      "3": "三",
+      "4": "四",
+      "5": "五",
+      "6": "六",
+      "7": "七",
+      "8": "八",
+      "9": "九",
+      "10": "十",
+      "11": "十一",
+      "12": "十二"
+    },
+    "minutes": [
+      "五分",
+      "十分",
+      "十五分",
+      "二十分",
+      "二十五分",
+      "三十分"
+    ]
+  },
+  "es": {
+    "title": "Reloj Difuso",
+    "description": "Hora aproximada",
+    "approx": "Aproximadamente",
+    "past": "y",
+    "to": "para las",
+    "oClock": "en punto",
+    "hours": {
+      "1": "una",
+      "2": "dos",
+      "3": "tres",
+      "4": "cuatro",
+      "5": "cinco",
+      "6": "seis",
+      "7": "siete",
+      "8": "ocho",
+      "9": "nueve",
+      "10": "diez",
+      "11": "once",
+      "12": "doce"
+    },
+    "minutes": [
+      "cinco",
+      "diez",
+      "cuarto",
+      "veinte",
+      "veinticinco",
+      "media"
+    ]
+  },
+  "zh": {
+    "title": "模糊时钟",
+    "description": "大约时间",
+    "approx": "大约",
+    "past": "过",
+    "to": "差",
+    "oClock": "点整",
+    "hours": {
+      "1": "一",
+      "2": "二",
+      "3": "三",
+      "4": "四",
+      "5": "五",
+      "6": "六",
+      "7": "七",
+      "8": "八",
+      "9": "九",
+      "10": "十",
+      "11": "十一",
+      "12": "十二"
+    },
+    "minutes": [
+      "五分",
+      "十分",
+      "一刻",
+      "二十分",
+      "二十五分",
+      "半"
+    ]
   }
 }
